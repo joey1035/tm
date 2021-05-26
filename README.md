@@ -1,8 +1,8 @@
 ## Teachable Machine Image Project Git Hosting
 
-##### 10324 정동주
+###### 10324 정동주
 
-
+2021/05/20
 ## project 1. teachable machine 이미지 모델 만들기
 
 ### 1. 이미지 모으기
@@ -20,5 +20,20 @@
 ### 결과 및 느낀점
  여러 인물들의 얼굴의 닮은정도를 잘 판별할 수 있었고, 이미지의 갯수가 더 많아질 수록 더 정확한 값을 낼수있을 것이라고 기대됨
  단순히 많은 이미지를 파악하게 한것만으로 다른 사람의 닮은 정도를 확인할수 있다는것이 굉장히 신기했었다.
+ 
+
+2021/05/26
+## project 2. github에서 서비스하기
+ 
+ ### 1.깃허브에 로그인
+ 
+ ### 2.fork하기
+ +  https://github.com/pnumin/tm
+    
+ ### 3.fork해온 repository의 index.html 수정
+ + 97라인 url 주소를 자신의 link주소로 변경
+ 
+ ### 4.fork해온 repository 설정 변경
+ + page 항목 수정
 
 
